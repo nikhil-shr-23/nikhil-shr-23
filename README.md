@@ -17,7 +17,7 @@ Always learning, always growing 🌱.
 🛠️ Languages and Tools
 <p> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,docker,kubernetes,aws,git,github,linux,bash,terraform,figma" /> </p>
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikhil-shr-23&show_icons=true&theme=radical" alt="Your GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikhil-shr-23&show_icons=true&theme=radical" alt="Your GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-shr-23&theme=radical" alt="GitHub Streak" /> </p>
 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 [Coming soon!]
