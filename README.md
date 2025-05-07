@@ -19,7 +19,7 @@ Always learning, always growing 🌱.
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nikhil-shr-23&show_icons=true&theme=radical" alt="Your GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil-shr-23&theme=radical" alt="GitHub Streak" /> </p>
 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:STARrT -->
 [Coming soon!]
 
 <!-- BLOG-POST-LIST:END -->
