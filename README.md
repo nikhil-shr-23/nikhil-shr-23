@@ -1,9 +1,5 @@
 # Hi there 👋 I'm Nikhil!
 
-Welcome to my GitHub profile!  
-I'm passionate about building apps that users love to use.  
-Always learning, always growing 🌱.
-
 ---
 
 ## 🚀 About Me
