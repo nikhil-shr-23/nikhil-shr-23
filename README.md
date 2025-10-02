@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 🔭 Currently working on **Typescript-101**  
-- 🌱 Learning **Rusts**  
+- 🌱 Learning **Rust**  
 - 👯 Open to collaborate on **open source projects & startups**  
 - 📫 Reach me at **nikhilijs@gmail.com**  
 - ⚡ Fun fact: *I hate olives*  
