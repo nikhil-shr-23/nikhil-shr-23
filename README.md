@@ -3,20 +3,13 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **Askence**  
-- 🌱 Learning **Kubernetes and DevOps**  
+- 🔭 Currently working on **Typescript-101**  
+- 🌱 Learning **Rusts**  
 - 👯 Open to collaborate on **open source projects & startups**  
 - 📫 Reach me at **nikhilijs@gmail.com**  
 - ⚡ Fun fact: *I hate olives*  
 
----
 
-## 🛠️ Languages and Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,docker,kubernetes,aws,git,github,linux,bash,terraform,figma,remix,nginx,grafana,prometheus,jest,cypress,vite,nestjs,graphql,apollo,redis,postman" />
-</p>
-
----
 
 ## 📝 Latest Blog Posts
 [Coming soon!]
@@ -25,13 +18,13 @@
 
 ## 🤝 Let's Connect!
 <p>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/nikhil-shr-23">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:nikhilijs@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" />
   </a>
 </p>
